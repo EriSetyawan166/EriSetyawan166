@@ -21,7 +21,37 @@
 
 - ✍️ Or if you are interested and want to get in touch with me, I'll be very open on my [Linkedin](https://www.linkedin.com/in/muhammad-eri-setyawan-72169b213/) okay!
 
-## Contact
+### 💻 Tech Stack
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostreSql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/erisetyawan166">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erisetyawan166&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erisetyawan166&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Contact
 <a href="https://www.linkedin.com/in/muhammad-eri-setyawan-72169b213/">![linkedin](https://img.shields.io/badge/Muhammad%20Eri%20Setyawan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Discord](https://img.shields.io/badge/kooooda-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
