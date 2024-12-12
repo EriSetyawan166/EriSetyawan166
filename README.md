@@ -23,6 +23,7 @@
 
 ### 💻 Tech Stack
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
 ![Tailwind Css](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
